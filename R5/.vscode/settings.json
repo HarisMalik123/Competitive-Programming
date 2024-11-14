@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "cmath": "cpp",
+        "xutility": "cpp",
+        "xtree": "cpp",
+        "vector": "cpp"
+    }
+}
